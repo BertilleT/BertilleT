@@ -1,4 +1,5 @@
-👋 Hi, I’m a student in computer science and information system engineering. I am currently interested by 5 fields : data, environment-computer science relation, cryptography, network, and hardware.  
+👋 Hi, I’m a student in computer science and information system engineering.  
+I am currently interested by 5 fields : data, environment-computer science relation, cryptography, network, and hardware.  
 
 - **Data** : I know Python + numpy to proccess data, R + ggplot to visualize data.  
 I want to improve my knowledges in IA (what is inside the black box of machine learning algorithm ?), and to learn more about data-journalism 
