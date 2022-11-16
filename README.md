@@ -1,4 +1,4 @@
-👋 Hi, I’m a student in a master of computer science investigation.  
+👋 Hi, I’m a student in a master of computer science investigation in Barcelona(Spain).  
 My background is more related to data science and language processing (python, ML, words similarities measures etc), yet I would like now to improve in parallel computing and neural network. 
 
 I am currently inpired by projects in several fields: 
