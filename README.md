@@ -1,5 +1,5 @@
 👋 Hi, I’m a student in a master of computer science investigation in Barcelona(Spain).  
-My background is more related to data science and language processing (python, ML, words similarities measures etc), yet I would like now to improve in neural network. 
+My background is related to data science (python, ML), I would like to improve in neural network. 
 
 I am currently inpired by projects in several fields: 
 - In **Remote sensing**, I am interested by the OCSGE project from the IGN (France). Basically the goal of this project is to categorize the type of land (artificial, or not artificial) using neural networks on geographical data. The results can be applied to measure and control soil artificialisation. 
