@@ -1,1 +1,1 @@
-👋 Hi, I’m a student in the master Mathematics, Vision, Learning from Ecole Normale Superieure Paris Saclay, and I am currently interested by the use of CNN with satellites images to monitor land articialisation. 
+👋 Hi, I am a student in the master Mathematics, Vision, Learning from Ecole Normale Superieure Paris Saclay and I am currently interested by the use of CNN with satellites images to monitor land articialisation. 
